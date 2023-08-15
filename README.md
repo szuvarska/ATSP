@@ -1,4 +1,4 @@
-# Warsztaty_Badawcze
+# ATSP
 
 This repository contains a project that aims to solve the Asymmetric Traveling Salesman Problem (ATSP) using a combination of simulated annealing and parallel tempering algorithms.
 The TSP is a well-known combinatorial optimization problem that asks for the shortest route a salesman can take to visit a set of cities exactly once and return to the starting city. In the asymmetric variant, the distance between two cities may differ depending on the direction traveled.
